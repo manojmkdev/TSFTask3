@@ -75,14 +75,12 @@ The main goal of this project is to:
 
 ## 📸 Screenshots
 
-> You can add screenshots of:
-- Home Page  
-- Donation Section  
-- Razorpay Checkout Screen  
+<img width="1365" height="673" alt="image" src="https://github.com/user-attachments/assets/c658d39f-265f-430e-b676-9f935eefc06b" />
 
-(Add images in a `/screenshots` folder and update this section)
+<img width="1362" height="673" alt="image" src="https://github.com/user-attachments/assets/9f9af9ef-abaf-4223-96fd-60b2e1086884" />
 
----
+<img width="1364" height="662" alt="image" src="https://github.com/user-attachments/assets/ae101d7c-9c98-42ba-90e4-33080820eba1" />
+
 
 ## 📌 Learning Outcomes
 
